@@ -1,4 +1,4 @@
-package univesp.oop.personapi.dto;
+package univesp.oop.personapi.dto.response;
 
 import lombok.Builder;
 import lombok.Data;

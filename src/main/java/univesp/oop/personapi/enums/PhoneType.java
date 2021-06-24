@@ -3,6 +3,8 @@ package univesp.oop.personapi.enums;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
+import javax.persistence.Enumerated;
+
 @Getter
 @AllArgsConstructor
 public enum PhoneType {
